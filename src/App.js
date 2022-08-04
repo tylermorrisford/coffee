@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
         <header className="App-header">
-          <p>Hello, I'm tyler</p>
+          <p>Hello World, I'm tyler</p>
           <p>I like coffee</p>
           <Emoji emoji="hot-beverage"/>
         </header>
